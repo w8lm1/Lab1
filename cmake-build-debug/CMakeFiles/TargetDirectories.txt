@@ -1,0 +1,3 @@
+C:/Dev C/2sem/Vor/1lab/cmake-build-debug/CMakeFiles/progs.dir
+C:/Dev C/2sem/Vor/1lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dev C/2sem/Vor/1lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir

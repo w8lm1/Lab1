@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Dev C/2sem/Vor/1lab/Lin.h
+stdio.h
+-
+time.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Dev C/2sem/Vor/1lab/Linint.c
+Lin.h
+C:/Dev C/2sem/Vor/1lab/Lin.h
+stdio.h
+-
+time.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Dev C/2sem/Vor/1lab/lindo.c
+Lin.h
+C:/Dev C/2sem/Vor/1lab/Lin.h
+stdio.h
+-
+time.h
+-
+stdlib.h
+-
+string.h
+-
+
